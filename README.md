@@ -7,14 +7,14 @@ I'm a **Computer Engineering** student passionate about **Android development**,
 ## 🎓 Education
 **Faculty of Engineering, Ain Shams University**  
 **Major:** Computer Engineering (2022 – 2027)  
-**Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Digital Signal Processing  
+
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, Kotlin, C++, Python
 - **Mobile Development:** Android (Jetpack Compose, XML, Firebase)
 - **Software Tools:** Gradle, Git, GitHub Actions, Shell Scripting
 - **AI/ML:** TensorFlow, NumPy, Pandas
-- **Operating Systems:** Linux/Unix
+
 
 ## 💡 Experience
 ### **Mobile Application Developer** – Digital Egypt Pioneers Initiative (Oct 2024 – Present)
@@ -31,7 +31,7 @@ I'm a **Computer Engineering** student passionate about **Android development**,
 
 ## 🔨 Notable Projects
 ### **Restaurant Management App** – Personal Project ([GitHub Repo](https://github.com/Nouran-11/MyResturant))
-- Developed a GUI-based restaurant management system using C++.
+- Developed a GUI-based restaurant management system 
 - Implemented features like automated check printing and customer order calculations.
 
 ### **MIPS Hashing Algorithm** – Computer Organization Course Project
