@@ -43,6 +43,7 @@ I'm a **Computer Engineering** student passionate about **Android development**,
 - **Hack24 Finalist** – Presented a sustainability-focused AI solution.
 
 ## 📜 Certifications
+- **Android Development** – Meta
 - **AI with Python Nanodegree** – Udacity
 - **Leadership and Design Thinking Training** – Hack24
 
