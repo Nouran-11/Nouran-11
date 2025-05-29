@@ -29,14 +29,6 @@ I'm a **Computer Engineering** student passionate about **Android development**,
 - Designed Android applications to address real-world pharmaceutical challenges.
 - Created technology-driven patient care solutions.
 
-## 🔨 Notable Projects
-### **Restaurant Management App** – Personal Project ([GitHub Repo](https://github.com/Nouran-11/MyResturant))
-- Developed a GUI-based restaurant management system 
-- Implemented features like automated check printing and customer order calculations.
-
-### **MIPS Hashing Algorithm** – Computer Organization Course Project
-- Developed an 8-bit hashing algorithm in MIPS assembly using the MARS simulator.
-- Implemented polynomial transformation and XOR operations for secure hashing.
 
 ## 🏆 Achievements
 - **Top 3 Project** – El-Araby & Universities of Canada Tech Hackathon (Built a motivation system for enhanced project engagement).
